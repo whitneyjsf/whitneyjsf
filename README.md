@@ -1,20 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .center {
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
 <div class="center">
   <h1>Hi! It's me Whitney 👋 </h1>
  </div>
-<!--
-**whitneyjsf/whitneyjsf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<div id="header" align="center">
+  <div id="header" align="center">
   <img src="https://media.giphy.com/media/UZQCbV4OW1mXdHJNPS/giphy.gif" width="300"/>
 </div>
+</body>
+</html>
+
