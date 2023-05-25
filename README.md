@@ -1,5 +1,6 @@
-### Hi! It's me Whitney 👋 
-<h1>Hi! It's me Whitney 👋 </h1>
+<div class="center">
+  <h1>Hi! It's me Whitney 👋 </h1>
+ </div>
 <!--
 **whitneyjsf/whitneyjsf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
