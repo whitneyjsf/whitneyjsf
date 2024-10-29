@@ -1,8 +1,8 @@
 <div align="center">
   <h1>Hi! It's me Whitney 👋</h1>
   <img src="https://media.giphy.com/media/UZQCbV4OW1mXdHJNPS/giphy.gif" width="150" alt="Animated GIF" />
-  <h3>🌟 Developer, UI/UX Designer, and Data 🚀 </h3>
-  <p class="non-bold">I am currently studying at BINUS University @Alam Sutera, majoring in Information Systems, and focusing on the Business Intelligence stream. I have a big passion for iOS Developer, Data Analyst, UI/UX, and Front-end Developer. My main focus is learning and adapting to new situations, challenges, and opportunities to upgrade myself and society.</p>
+  <h3>🌟 Data Engineer, Developer, UI/UX Designer 🚀 </h3>
+  <p class="non-bold">I am a fresh graduate at BINUS University @Alam Sutera, majoring in Information Systems.I have a big passion for Data Engineer, Data Analyst, and UI/UX Designer. My main focus is learning and adapting to new situations, challenges, and opportunities to upgrade myself and society.</p>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/whitney-prajna-pundarika/">
