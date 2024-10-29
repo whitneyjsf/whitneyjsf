@@ -31,13 +31,6 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="SSMS" alt="SSMS" width="40" height="40"/>&nbsp;
   </div>
 
-  <h3>:hammer_and_wrench: Language and Tools that I want to learn more :hammer_and_wrench:</h3>
-  <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original-wordmark.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
-  </div>
-
   <h3>:fire: My Stats :</h3>
   <a href="https://git.io/streak-stats">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=whitneyjsf&theme=dark&background=000000" alt="GitHub Streak" />
